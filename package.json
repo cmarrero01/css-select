@@ -19,7 +19,7 @@
   "dependencies": {
     "boolbase": "^1.0.0",
     "css-what": "2.1",
-    "domutils": "https://github.com/numeracy/domutils.git",
+    "domutils": "https://github.com/cmarrero01/domutils.git",
     "nth-check": "^1.0.1"
   },
   "devDependencies": {
