@@ -27,7 +27,7 @@
     "coveralls": "*",
     "eslint": "^3.0.0",
     "expect.js": "*",
-    "htmlparser2": "*",
+    "htmlparser2": "git+https://github.com/cmarrero01/htmlparser2.git",
     "istanbul": "*",
     "mocha": "*",
     "mocha-lcov-reporter": "*"
